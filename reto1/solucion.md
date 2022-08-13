@@ -24,12 +24,14 @@ tengas instalado docker.
 
 2. Pantallazo donde se vea el acceso al servidor web utilizando un navegador web (recuerda que tienes que acceder a la ip del ordenador donde tengas instalado
 docker)
+![2](./img/2.png)
 
 3. Pantallazo donde se vean las imágenes que tienes en tu registro local.
+![3](./img/3.png)
 
 4. Pantallazo donde se vea cómo se elimina el contenedor (recuerda que antes debe
 estar parado el contenedor).
-
+![4](./img/4.png)
 ### Entregable:
 
 - Armar un script en Bash con todos los pasos para crear el contenedor
